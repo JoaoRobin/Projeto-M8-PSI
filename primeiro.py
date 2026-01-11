@@ -19,3 +19,6 @@ print("Olá", nome)
 
 idade=input("Introduza a sua idade: ")
 print(nome +" tem", idade, "anos")
+
+ano=input("Introduza o ano de escolaridade: ")
+print(nome +" tem", idade, "anos e anda no ",ano,"º ano.")
